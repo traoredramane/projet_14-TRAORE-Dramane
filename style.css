@@ -1,0 +1,43 @@
+
+header {
+background-image: url(imageZ.jpeg);
+height: 700px;
+}
+.none1 {
+    display: flex;
+    justify-content: space-between;
+    color: blanchedalmond;
+}
+.nain {
+ margin-left: 10px;
+color: blanchedalmond;
+}
+.none ul a{
+    justify-content: space-between;
+}
+.none2 {
+    justify-content: center;
+    text-align: center;
+    margin-top: 150px;
+    color: white;
+}
+.none2 .btn{
+background-color: aqua;
+    margin: 2px solid white;
+    border-radius: 20px;
+    color: white;
+padding: 10px 20px;
+}
+.you {
+    text-align: center;
+    margin-top: 50px;
+}
+.we {
+    text-align: center;
+    margin-top: 50px;
+}
+.none4{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
