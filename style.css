@@ -11,6 +11,8 @@ height: 700px;
 .nain {
  margin-left: 10px;
 color: blanchedalmond;
+font-size: 40px;
+text-decoration: solid;
 }
 .none ul a{
     justify-content: space-between;
@@ -32,12 +34,119 @@ padding: 10px 20px;
     text-align: center;
     margin-top: 50px;
 }
-.we {
+.sec2 {
+    
+}
+.nai {
     text-align: center;
     margin-top: 50px;
 }
 .none4{
+    margin-left: 350px;
+}
+.nain1 {
+    display: flex;
+}
+.one {
+   text-align: center;
+}
+.two {
+  text-align: center;  
+}
+.three {
+    text-align: center;
+}
+.fals {
+    text-align: center;
+    margin-top: 50px;
+}
+.wer {
+    text-align: center;
+    margin-top: 50px;
+}
+.bt {
+    border: 1px solid black;
+    border-radius: 25px;
+    margin-left: 100px;
+    padding: 20px 15px;
+}
+.lor {
+    text-align: center;
+}
+.ex {
+    text-align: center;
+}
+.sect3 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.sec3 {
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+
+.bi1 {
+    font-size: 50px;
+    color: cadetblue;
+}
+.sect4 {
     display: flex;
     justify-content: center;
-    justify-content: space-around;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+.se {
+    margin-left: 40px;
+    font-size: 20px;
+}
+.sect5 {
+    text-align: center;
+}
+
+.sect6 {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.se1 {
+    font-size: 50px;
+    color: cornflowerblue;
+}
+.ce {
+    text-align: center;
+    padding-top: 50px;
+}
+.foot1 {
+    background-color: rgb(15, 15, 15);
+    height: 200px;
+    
+}
+.ft1{
+    padding-top: 25px;
+   text-align: center;
+}
+.foot2 {
+    background-color: black;
+    height: 70px;
+    text-align: center;
+    padding-top: 20px;
+}
+.ft2 { 
+      color: rgb(81, 84, 86);
+    text-decoration: solid;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.nai {
+
+  font-size: 30px;
+  color: aliceblue;
+}
+.bt4 {
+    background-color: aqua;
 }
